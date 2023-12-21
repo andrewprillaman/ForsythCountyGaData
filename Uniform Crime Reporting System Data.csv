@@ -1,46 +1,47 @@
 Year,Population,Murder,Murder Rate,Rape,Robbery,Agg Assult,Burglary,Larceny/theft,Motor Vehicle Theft,Arson,HT Sex,HT Involuntary Servitude,Index Crime Total,Crime Per Capita,Source,Notes
-1974,21100,2,9.48,5,24,25,309,283,75,,,,723,0.0342654028436019,http://dlg.galileo.usg.edu/ggpd/docs/1980/ga/g675_pc7/s1/c7/1980.con/1.pdf,The 1978 report included a  comparison to 1974.
-1978,23100,1,4.33,1,8,21,219,431,69,,,,750,0.0324675324675325,http://dlg.galileo.usg.edu/ggpd/docs/1980/ga/g675_pc7/s1/c7/1980.con/1.pdf,
-1979,26600,1,3.76,3,8,26,264,535,77,,,,914,0.0343609022556391,http://dlg.galileo.usg.edu/ggpd/docs/1981/ga/g675_pc7/s1/c7/1981.con/1.pdf,Population from Census Data
-1980,27958,0,0.00,0,1,12,327,527,90,1,,,958,0.0342656842406467,http://dlg.galileo.usg.edu/ggpd/docs/1982/ga/g675_pc7/s1/c7/1982.con/1.pdf,Population from Census Data
-1981,28788,2,6.95,2,4,17,267,633,75,8,,,1008,0.0350145894122551,http://dlg.galileo.usg.edu/ggpd/docs/1983/ga/g675_pc7/s1/c7/1983.con/1.pdf,Population from Census Data
+1974,21100,2,9.48,5,24,25,309,283,75,,,,723,0.034265403,http://dlg.galileo.usg.edu/ggpd/docs/1980/ga/g675_pc7/s1/c7/1980.con/1.pdf,The 1978 report included a  comparison to 1974.
+1978,23100,1,4.33,1,8,21,219,431,69,,,,750,0.032467532,http://dlg.galileo.usg.edu/ggpd/docs/1980/ga/g675_pc7/s1/c7/1980.con/1.pdf,
+1979,26600,1,3.76,3,8,26,264,535,77,,,,914,0.034360902,http://dlg.galileo.usg.edu/ggpd/docs/1981/ga/g675_pc7/s1/c7/1981.con/1.pdf,Population from Census Data
+1980,27958,0,0,0,1,12,327,527,90,1,,,958,0.034265684,http://dlg.galileo.usg.edu/ggpd/docs/1982/ga/g675_pc7/s1/c7/1982.con/1.pdf,Population from Census Data
+1981,28788,2,6.95,2,4,17,267,633,75,8,,,1008,0.035014589,http://dlg.galileo.usg.edu/ggpd/docs/1983/ga/g675_pc7/s1/c7/1983.con/1.pdf,Population from Census Data
 1982,29596,,,,,,,,,,,,0,0,,There appears to be a gap in publication.
-1983,31228,0,0.00,1,3,25,217,520,65,5,,,836,0.0267708466760599,http://dlg.galileo.usg.edu/ggpd/docs/1984/ga/i675_pc7/s1/c7/1983.con/1.pdf,
-1984,32318,3,9.28,2,5,22,248,421,65,5,,,771,0.0238566742991522,http://dlg.galileo.usg.edu/ggpd/docs/1985/ga/i675_pc7/s1/c7/1984.con/1.pdf,
-1985,33408,0,0.00,8,5,34,362,614,102,7,,,1132,0.0338840996168582,http://dlg.galileo.usg.edu/ggpd/docs/1986/ga/i675_pc7/s1/c7/1985.con/1.pdf,
-1986,34498,0,0.00,8,5,27,444,680,121,9,,,1294,0.0375094208359905,http://dlg.galileo.usg.edu/ggpd/docs/1987/ga/i675_pc7/s1/c7/1986.con/1.pdf,
-1987,35588,4,11.24,7,6,62,459,847,148,7,,,1540,0.043273013375295,http://dlg.galileo.usg.edu/ggpd/docs/1988/ga/i675_pc7/s1/c7/1987.con/1.pdf,
-1988,36678,3,8.18,6,1,59,391,1058,131,9,,,1658,0.0452042096079394,http://dlg.galileo.usg.edu/ggpd/docs/1989/ga/i675_pc7/s1/c7/1988.con/1.pdf,
-1989,43133,3,6.96,10,11,73,540,1521,211,11,,,2380,0.0551781698467531,http://dlg.galileo.usg.edu/ggpd/docs/1990/ga/i675_pc7/s1/c7/1989.con/1.pdf,
-1990,44083,0,0.00,4,8,94,605,1159,136,6,,,2012,0.0456411768709026,http://dlg.galileo.usg.edu/ggpd/docs/1990/ga/i675_pc7/s1/c75/1990.con/1.pdf,No Arson Data
-1991,45068,0,0.00,10,4,176,526,1170,230,,,,2116,0.0469512736309577,http://dlg.galileo.usg.edu/ggpd/docs/1991/ga/i675_pc7/s1/c75/1991.con/1.pdf,No Arson Data
-1992,45938,4,8.71,10,25,86,541,1438,230,,,,2334,0.0508076102573033,http://dlg.galileo.usg.edu/ggpd/docs/1992/ga/i675_pc7/s1/c75/1992.con/1.pdf,
+1983,31228,0,0,1,3,25,217,520,65,5,,,836,0.026770847,http://dlg.galileo.usg.edu/ggpd/docs/1984/ga/i675_pc7/s1/c7/1983.con/1.pdf,
+1984,32318,3,9.28,2,5,22,248,421,65,5,,,771,0.023856674,http://dlg.galileo.usg.edu/ggpd/docs/1985/ga/i675_pc7/s1/c7/1984.con/1.pdf,
+1985,33408,0,0,8,5,34,362,614,102,7,,,1132,0.0338841,http://dlg.galileo.usg.edu/ggpd/docs/1986/ga/i675_pc7/s1/c7/1985.con/1.pdf,
+1986,34498,0,0,8,5,27,444,680,121,9,,,1294,0.037509421,http://dlg.galileo.usg.edu/ggpd/docs/1987/ga/i675_pc7/s1/c7/1986.con/1.pdf,
+1987,35588,4,11.24,7,6,62,459,847,148,7,,,1540,0.043273013,http://dlg.galileo.usg.edu/ggpd/docs/1988/ga/i675_pc7/s1/c7/1987.con/1.pdf,
+1988,36678,3,8.18,6,1,59,391,1058,131,9,,,1658,0.04520421,http://dlg.galileo.usg.edu/ggpd/docs/1989/ga/i675_pc7/s1/c7/1988.con/1.pdf,
+1989,43133,3,6.96,10,11,73,540,1521,211,11,,,2380,0.05517817,http://dlg.galileo.usg.edu/ggpd/docs/1990/ga/i675_pc7/s1/c7/1989.con/1.pdf,
+1990,44083,0,0,4,8,94,605,1159,136,6,,,2012,0.045641177,http://dlg.galileo.usg.edu/ggpd/docs/1990/ga/i675_pc7/s1/c75/1990.con/1.pdf,No Arson Data
+1991,45068,0,0,10,4,176,526,1170,230,,,,2116,0.046951274,http://dlg.galileo.usg.edu/ggpd/docs/1991/ga/i675_pc7/s1/c75/1991.con/1.pdf,No Arson Data
+1992,45938,4,8.71,10,25,86,541,1438,230,,,,2334,0.05080761,http://dlg.galileo.usg.edu/ggpd/docs/1992/ga/i675_pc7/s1/c75/1992.con/1.pdf,
 1993,49748,,,,,,,,,,,,0,0,,Unable to find county level data for this year
-1994,51932,0,0.00,12,8,172,501,1733,201,,,,2627,0.0505853808826928,http://dlg.galileo.usg.edu/ggpd/docs/1994/ga/i675_pc7/s1/c75/1994.con/1.pdf,No Arson Data
-1995,58002,0,0.00,10,12,184,527,1847,171,,,,2751,0.0474293989862419,http://dlg.galileo.usg.edu/ggpd/docs/1995/ga/i675_pc7/s1/c75/1995.con/1.pdf,
-1996,59226,1,1.69,5,12,204,543,1985,241,,,,2991,0.0505014689494479,http://dlg.galileo.usg.edu/ggpd/docs/1996/ga/i675_pc7/s1/c75/1996.con/1.pdf,
-1997,60297,2,3.32,8,15,201,550,1622,287,,,,2685,0.0445295785859993,http://dlg.galileo.usg.edu/ggpd/docs/1997/ga/i675_pc7/s1/c75/1997.con/1.pdf,
-1998,77328,2,2.59,9,21,312,510,1952,216,,,,3022,0.0390802813987172,http://dlg.galileo.usg.edu/ggpd/docs/1998/ga/i675_pc7/s1/c75/1998.con/1.pdf,
-1999,83069,0,0.00,11,20,208,256,2023,211,,,,2729,0.0328522072012423,http://dlg.galileo.usg.edu/ggpd/docs/1999/ga/i675_pc7/s1/c75/1999/elec_p_btext.con/1.pdf,
-2000,101630,0,0.00,16,13,216,439,1400,205,,,,2289,0.0225228771032176,http://dlg.galileo.usg.edu/ggpd/docs/2000/ga/i675_pc7/s1/c75/2000/elec_p_btext.con/1.pdf,
-2001,100781,2,1.98,20,22,238,446,1534,248,,,,2510,0.024905488137645,http://dlg.galileo.usg.edu/ggpd/docs/2001/ga/i675_pc7/s1/c75/2001/elec_p_btext.con/1.pdf,
-2002,102901,1,0.97,21,12,195,463,1588,226,,,,2506,0.024353504825026,http://dlg.galileo.usg.edu/ggpd/docs/2002/ga/i675_pc7/s1/c75/2002/elec_p_btext.con/1.pdf,
-2003,118623,4,3.37,19,10,197,518,1805,229,,,,2782,0.0234524501993711,http://dlg.galileo.usg.edu/ggpd/docs/2003/ga/i675_pc7/s1/c75/2003/elec_p_btext.con/1.pdf,
-2004,125873,1,0.79,11,22,219,534,1955,283,,,,3025,0.0240321593987591,http://dlg.galileo.usg.edu/ggpd/docs/2004/ga/i675_pc7/s1/c75/2004/elec_p_btext.con/1.pdf,
-2005,135497,8,5.90,15,22,179,728,2276,228,,,,3456,0.0255060997660465,http://dlg.galileo.usg.edu/ggpd/docs/2005/ga/i675_pc7/s1/c75/2005/elec_p_btext.con/1.pdf,
-2006,144902,6,4.14,14,16,68,480,2225,152,,,,2961,0.0204345005589985,http://dlg.galileo.usg.edu/ggpd/docs/2006/ga/i675_pc7/s1/c75/2006/elec_p_btext.con/1.pdf,
-2007,159999,0,0.00,20,32,79,471,1834,113,,,,2549,0.0159313495709348,http://dlg.galileo.usg.edu/ggpd/docs/2007/ga/i675_pc7/s1/c75/2007/elec_p_btext.con/1.pdf,
-2008,167495,4,2.39,27,32,80,562,1642,159,11,,,2517,0.0150273142481865,http://dlg.galileo.usg.edu/ggpd/docs/2008/ga/i675_pc7/s1/c75/2008/elec_p_btext.con/1.pdf,
-2009,177118,2,1.13,20,25,51,555,1644,107,13,,,2417,0.0136462697184928,http://dlg.galileo.usg.edu/ggpd/docs/2009/ga/i675_pc7/s1/c75/2009/elec_p_btext.con/1.pdf,
-2010,178423,3,1.68,18,17,67,517,1561,95,9,,,2287,0.0128178542004114,http://dlg.galileo.usg.edu/ggpd/docs/2010/ga/i675_pc7/s1/c75/2010/elec_p_btext.con/1.pdf,
-2011,177822,0,0.00,24,15,332,464,1647,71,4,,,2557,0.0143795480874133,http://dlg.galileo.usg.edu/ggpd/docs/2011/ga/i675_pc7/s1/c75/2011/elec_p_btext.con/1.pdf,
-2012,183780,0,0.00,15,10,140,395,1431,33,2,,,2026,0.0110240504951573,http://dlg.galileo.usg.edu/ggpd/docs/2012/ga/i675_pc7/s1/c75/2012/elec_p_btext.con/1.pdf,
-2013,191829,0,0.00,13,10,95,402,1383,55,2,,,1960,0.0102174332348081,https://gbi.georgia.gov/document/publication/2013-crime-statistics-summary-report/download,
-2014,201018,0,0.00,16,9,77,324,1381,62,7,,,1876,0.00933249758728074,https://gbi.georgia.gov/document/publication/2014-crime-statistics-summary-report/download,
-2015,212195,0,0.00,34,8,101,318,1447,83,5,,,1996,0.00940644218761045,https://gbi.georgia.gov/document/publication/2015-crime-statistics-summary-report/download,
-2016,220167,0,0.00,28,9,81,244,1220,61,8,,,1651,0.00749885314329577,https://gbi.georgia.gov/document/publication/2016-crime-statistics-summary-report/download,
-2017,229647,4,1.74,24,17,92,322,1624,111,7,,,2201,0.00958427499597208,https://gbi.georgia.gov/document/publication/2017-crime-statistics-summary-report/download,
-2018,235953,1,0.42,27,9,74,299,1660,91,5,0,0,2166,0.00917979428106445,https://gbi.georgia.gov/document/document/2018-crime-statistics-summary-report/download-0,
-2019,245136,1,0.41,27,7,93,180,"1,082",122,8,0,0,1520,0.00620063964493179,https://gbi.georgia.gov/document/document/2019-crime-statistics-summary-report/download-0,
-2020,252790,0,0.00,31,13,90,160,867,79,7,0,0,1247,0.00493294829700542,https://gbi.georgia.gov/document/document/2020-crime-statistics-summary-report/download,
-2021,259307,1,0.39,29,7,115,185,1029,103,8,0,0,1477,0.00569595113128454,https://gbi.georgia.gov/document/document/2021-crime-statistics-summary-report/download,
+1994,51932,0,0,12,8,172,501,1733,201,,,,2627,0.050585381,http://dlg.galileo.usg.edu/ggpd/docs/1994/ga/i675_pc7/s1/c75/1994.con/1.pdf,No Arson Data
+1995,58002,0,0,10,12,184,527,1847,171,,,,2751,0.047429399,http://dlg.galileo.usg.edu/ggpd/docs/1995/ga/i675_pc7/s1/c75/1995.con/1.pdf,
+1996,59226,1,1.69,5,12,204,543,1985,241,,,,2991,0.050501469,http://dlg.galileo.usg.edu/ggpd/docs/1996/ga/i675_pc7/s1/c75/1996.con/1.pdf,
+1997,60297,2,3.32,8,15,201,550,1622,287,,,,2685,0.044529579,http://dlg.galileo.usg.edu/ggpd/docs/1997/ga/i675_pc7/s1/c75/1997.con/1.pdf,
+1998,77328,2,2.59,9,21,312,510,1952,216,,,,3022,0.039080281,http://dlg.galileo.usg.edu/ggpd/docs/1998/ga/i675_pc7/s1/c75/1998.con/1.pdf,
+1999,83069,0,0,11,20,208,256,2023,211,,,,2729,0.032852207,http://dlg.galileo.usg.edu/ggpd/docs/1999/ga/i675_pc7/s1/c75/1999/elec_p_btext.con/1.pdf,
+2000,101630,0,0,16,13,216,439,1400,205,,,,2289,0.022522877,http://dlg.galileo.usg.edu/ggpd/docs/2000/ga/i675_pc7/s1/c75/2000/elec_p_btext.con/1.pdf,
+2001,100781,2,1.98,20,22,238,446,1534,248,,,,2510,0.024905488,http://dlg.galileo.usg.edu/ggpd/docs/2001/ga/i675_pc7/s1/c75/2001/elec_p_btext.con/1.pdf,
+2002,102901,1,0.97,21,12,195,463,1588,226,,,,2506,0.024353505,http://dlg.galileo.usg.edu/ggpd/docs/2002/ga/i675_pc7/s1/c75/2002/elec_p_btext.con/1.pdf,
+2003,118623,4,3.37,19,10,197,518,1805,229,,,,2782,0.02345245,http://dlg.galileo.usg.edu/ggpd/docs/2003/ga/i675_pc7/s1/c75/2003/elec_p_btext.con/1.pdf,
+2004,125873,1,0.79,11,22,219,534,1955,283,,,,3025,0.024032159,http://dlg.galileo.usg.edu/ggpd/docs/2004/ga/i675_pc7/s1/c75/2004/elec_p_btext.con/1.pdf,
+2005,135497,8,5.9,15,22,179,728,2276,228,,,,3456,0.0255061,http://dlg.galileo.usg.edu/ggpd/docs/2005/ga/i675_pc7/s1/c75/2005/elec_p_btext.con/1.pdf,
+2006,144902,6,4.14,14,16,68,480,2225,152,,,,2961,0.020434501,http://dlg.galileo.usg.edu/ggpd/docs/2006/ga/i675_pc7/s1/c75/2006/elec_p_btext.con/1.pdf,
+2007,159999,0,0,20,32,79,471,1834,113,,,,2549,0.01593135,http://dlg.galileo.usg.edu/ggpd/docs/2007/ga/i675_pc7/s1/c75/2007/elec_p_btext.con/1.pdf,
+2008,167495,4,2.39,27,32,80,562,1642,159,11,,,2517,0.015027314,http://dlg.galileo.usg.edu/ggpd/docs/2008/ga/i675_pc7/s1/c75/2008/elec_p_btext.con/1.pdf,
+2009,177118,2,1.13,20,25,51,555,1644,107,13,,,2417,0.01364627,http://dlg.galileo.usg.edu/ggpd/docs/2009/ga/i675_pc7/s1/c75/2009/elec_p_btext.con/1.pdf,
+2010,178423,3,1.68,18,17,67,517,1561,95,9,,,2287,0.012817854,http://dlg.galileo.usg.edu/ggpd/docs/2010/ga/i675_pc7/s1/c75/2010/elec_p_btext.con/1.pdf,
+2011,177822,0,0,24,15,332,464,1647,71,4,,,2557,0.014379548,http://dlg.galileo.usg.edu/ggpd/docs/2011/ga/i675_pc7/s1/c75/2011/elec_p_btext.con/1.pdf,
+2012,183780,0,0,15,10,140,395,1431,33,2,,,2026,0.01102405,http://dlg.galileo.usg.edu/ggpd/docs/2012/ga/i675_pc7/s1/c75/2012/elec_p_btext.con/1.pdf,
+2013,191829,0,0,13,10,95,402,1383,55,2,,,1960,0.010217433,https://gbi.georgia.gov/document/publication/2013-crime-statistics-summary-report/download,
+2014,201018,0,0,16,9,77,324,1381,62,7,,,1876,0.009332498,https://gbi.georgia.gov/document/publication/2014-crime-statistics-summary-report/download,
+2015,212195,0,0,34,8,101,318,1447,83,5,,,1996,0.009406442,https://gbi.georgia.gov/document/publication/2015-crime-statistics-summary-report/download,
+2016,220167,0,0,28,9,81,244,1220,61,8,,,1651,0.007498853,https://gbi.georgia.gov/document/publication/2016-crime-statistics-summary-report/download,
+2017,229647,4,1.74,24,17,92,322,1624,111,7,,,2201,0.009584275,https://gbi.georgia.gov/document/publication/2017-crime-statistics-summary-report/download,
+2018,235953,1,0.42,27,9,74,299,1660,91,5,0,0,2166,0.009179794,https://gbi.georgia.gov/document/document/2018-crime-statistics-summary-report/download-0,
+2019,245136,1,0.41,27,7,93,180,"1,082",122,8,0,0,1520,0.00620064,https://gbi.georgia.gov/document/document/2019-crime-statistics-summary-report/download-0,
+2020,252790,0,0,31,13,90,160,867,79,7,0,0,1247,0.004932948,https://gbi.georgia.gov/document/document/2020-crime-statistics-summary-report/download,
+2021,259307,1,0.39,29,7,115,185,1029,103,8,0,0,1477,0.005695951,https://gbi.georgia.gov/document/document/2021-crime-statistics-summary-report/download,
+2022,268766,3,1.116212616,27,9,114,120,1025,73,0,1,0,1372,0.005104812,https://gbi.georgia.gov/document/document/2022-crime-statistics-summary-report/download,
